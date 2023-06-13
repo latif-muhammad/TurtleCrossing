@@ -42,6 +42,3 @@ Run the game by executing the following command:
 Feel free to modify and experiment with the code to add more features or customize the gameplay according to your preferences.
 
 Enjoy playing!
-
-
-
