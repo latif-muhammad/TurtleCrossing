@@ -29,3 +29,19 @@ Run the game by executing the following command:
 3. If the turtle collides with a car, the game ends.
 4. The game keeps track of your score and level, which are displayed on the screen.
 
+
+## **Gameplay Image**
+
+![image](https://github.com/latif-muhammad/PingPong/assets/123078982/7dfdfcc5-599c-48b0-95ab-900e8ea34372)
+
+## Author
+- Muhammad Latif
+- email: muhammadlatifadd199@gmail.com
+- GitHub: [GitHub Profile](https://github.com/latif-muhammad)
+
+Feel free to modify and experiment with the code to add more features or customize the gameplay according to your preferences.
+
+Enjoy playing Ping Pong!
+
+
+
