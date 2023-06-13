@@ -1,6 +1,5 @@
 from turtle import Turtle
 
-
 STARTING_POS = (0, -240)
 MOVE_DIS = 10
 FINISH_LINE = 280

@@ -32,6 +32,5 @@ while in_game:
 
     screen.update()
 
-
 screen.exitonclick()
 

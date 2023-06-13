@@ -1,6 +1,7 @@
 import random
 from turtle import Turtle
 
+
 COLORS = ["red", "blue", "green", "yellow", "purple"]
 STARTING_MOVE_DIS = 0.19
 MOVE_INC = 0.2
