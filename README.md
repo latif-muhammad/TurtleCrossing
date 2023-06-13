@@ -32,7 +32,7 @@ Run the game by executing the following command:
 
 ## **Gameplay Image**
 
-![image](https://github.com/latif-muhammad/PingPong/assets/123078982/7dfdfcc5-599c-48b0-95ab-900e8ea34372)
+![image](https://github.com/latif-muhammad/TurtleCrossing/blob/main/gameplay_turtle.png)
 
 ## Author
 - Muhammad Latif
